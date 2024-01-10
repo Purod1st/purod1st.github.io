@@ -19,8 +19,10 @@ pluralizelisttitles = false
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "Обо мне", URL = "/about/", HasChildren = false},
+        {Name = "Посты", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+	{Name = "Проекты", URL = "/projects/", Pre = "Recent", HasChildren = true, Limit = 5},
+
     ]
 
     discord_url = "https://discord.com"
