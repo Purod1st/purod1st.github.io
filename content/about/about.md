@@ -10,7 +10,7 @@ draft: false
 Студент магистратуры по специальности Прикладная информатика.
 
 ## Технологии  
-**Linux, Docker, Git, SQL, VirtualBox, QEMU**
+**Linux, Docker, Git, SQL, VirtualBox, QEMU, R**
 
 ## Мои проекты
 ### Сайт на базе Hugo
