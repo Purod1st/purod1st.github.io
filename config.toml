@@ -19,7 +19,7 @@ pluralizelisttitles = false
         # URL:          The directory relative to the content directory.
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown
-    front_page_content = ["about", "skills"]
+    front_page_content = ["about"]
     menu = [
         {Name = "Обо мне", URL = "/about/", HasChildren = false},
         {Name = "Блог", URL = "/posts/", HasChildren = true, Limit = 5},
