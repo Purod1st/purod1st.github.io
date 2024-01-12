@@ -27,11 +27,11 @@ pluralizelisttitles = false
 	{Name = "Компетенции", URL = "/skills/", HasChildren = true, Limit = 5},
     ]
 
-    discord_url = "https://discord.com"
-    email_url = "mailto://user@domain"
-    github_url = "https://github.com"
-    gitlab_url = "https://gitlab.com"
-    youtube_url = "https://youtube.com"
+    #discord_url = "https://discord.com"
+    email_url = "mailto://maxtitov00@yandex.ru"
+    github_url = "https://github.com/Purod1st"
+    #gitlab_url = "https://gitlab.com"
+    #youtube_url = "https://youtube.com"
 
 
     # Hex colors for your sidebar.
