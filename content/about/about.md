@@ -10,7 +10,7 @@ draft: false
 
 ## Технологии
   
-**Linux, Docker, Git, SQL, VirtualBox, QEMU, R**
+**Linux, Docker, Git, SQL, VirtualBox, QEMU, R, bash**
 
 ## Мои проекты
 

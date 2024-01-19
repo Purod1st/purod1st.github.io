@@ -3,6 +3,7 @@ title: "Linux"
 date: 2024-01-12T05:21:35Z
 publishDate: 2024-01-12T05:21:35Z
 draft: false
+tags: ["Skills", "Linux"]
 ---
 ```
              ________________________________________________

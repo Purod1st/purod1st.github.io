@@ -3,6 +3,7 @@ title: "Собственный сайт на Hugo"
 date: 2024-01-10T07:53:53Z
 publishDate: 2024-01-10T07:53:53Z
 draft: false
+tags: ["Projects", "Hugo", "GitHub", "GitHub Pages"]
 ---
 # Личный сайт на базе Hugo и GitHub Pages
 ## Введение

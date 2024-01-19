@@ -3,6 +3,7 @@ title: "Первый пост"
 date: 2024-01-12T05:55:19Z
 publishDate: 2024-01-12T05:55:19Z
 draft: false
+tags: ["blog", "Other", "ToDo"]
 ---
 
 # Первый пост
